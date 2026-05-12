@@ -1,3 +1,11 @@
+Professional archive of Pure Chemistry research, AI infrastructure projects, and technical leadership milestones."no
+### 🚀 Why this matters
+This project helped me master the front-end skills I now use to document my **AI technical infrastructure** work and visualize **Pure Chemistry** data. It proves my ability to create responsive tools that work on phone, tablet, and computer.
+### 🛠️ Engineering Impact (Turing Alignment)
+- **Scalability:** Developed a modular 4-page architecture designed for easy expansion of technical projects.
+- **Cross-Platform Optimization:** Engineered a responsive UI that maintains 100% functionality across mobile and desktop environments.
+- **Clean Code:** Focused on reusable components and logical structure to ensure long-term maintainability.
+
 # My Portfolio – Ann Peter Wayua
 
 A simple and beautiful portfolio I built during **eMobilis Web Development Bootcamp**.
